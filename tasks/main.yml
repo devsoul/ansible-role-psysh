@@ -1,0 +1,8 @@
+---
+- name: Install Psysh.
+  become: yes
+  get_url:
+    url: https://psysh.org/psysh
+    dest: /usr/local/bin/psysh
+    mode: 0755
+    force: yes
