@@ -1,5 +1,6 @@
 Psysh Ansible role
 =========
+[![Build Status](https://travis-ci.com/devsoul/ansible-role-psysh.svg?branch=master)](https://travis-ci.com/devsoul/ansible-role-psysh)
 
 If you are a PHP developer and you use Psysh.
 
